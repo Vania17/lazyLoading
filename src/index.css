@@ -1,3 +1,29 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+body{
+    background-color: #fdf9f6;
+}
+.text{
+    color: #e56513;
+}
+
+.button-style{
+    background-color: #e56513;
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+}
+
+.button-remove{
+    color: #e56513;
+    padding: 7px;
+    border-radius: 5px;
+    margin-left: 20px;
+    border: solid 1px #e56513;
+    background-color: white;
+}
+
+  
